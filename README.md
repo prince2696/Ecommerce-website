@@ -1,2 +1,2 @@
-# PSHOP-Website
+# Ecommerce-Website
 Developed Using MERN Stack.
